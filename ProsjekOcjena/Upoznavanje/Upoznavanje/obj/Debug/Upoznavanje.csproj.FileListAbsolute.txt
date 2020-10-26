@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\bin\Debug\Upoznavanje.exe.config
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\bin\Debug\Upoznavanje.exe
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\bin\Debug\Upoznavanje.pdb
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\obj\Debug\Upoznavanje.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\obj\Debug\Upoznavanje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\obj\Debug\Upoznavanje.exe
+C:\Users\Učenik 5\source\repos\Upoznavanje\Upoznavanje\obj\Debug\Upoznavanje.pdb
